@@ -35,7 +35,7 @@ The R script (run_analysis.R) clean up the data as follows:
 - Label the data set with descriptive names based on the result of previous steps.
 * The result is a 10299x68 data(The first column contains subject IDs, the second column activity names, and the last 66 columns are measurements).
 
-(Spep5)
+(Step5)
 - Make an independent tidy data set with the average of each measurement for each activity and each subject.
 * The result is saved as "tidydataset.txt"
 * The data contains 180x68 data: the first column contains subject IDs, the second column contains activity names, and the averages for each of the 66 attributes are in columns 3 to 68. There are 30 subjects and 6 activities, therefore 180 rows in the data set.
