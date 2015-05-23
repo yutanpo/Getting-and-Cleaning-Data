@@ -1,10 +1,9 @@
-Getting and Cleaning Data (Peer Assessments)
-README
+Getting and Cleaning Data (Peer Assessments): README
 ============================================
 
 ## How the script works
-- Unzip the below source(*) into a folder in your local drive, for example, C:\Users\hoge\R\UCI HAR Dataset
-(*) https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+- Unzip the below source into a folder in your local drive, for example, C:\Users\hoge\R\UCI HAR Dataset
+-- https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 - Put run_analysis.R into C:\Users\hoge\R
 
